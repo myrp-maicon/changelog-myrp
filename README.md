@@ -5,7 +5,7 @@
 </p>
   
 ## Changelog
-Para forçar a publicação do changelog é necessário seguir os passos abaixo no diretório `/myrp.changelog`.
+Para forçar a publicação do changelog é necessário seguir os passos abaixo no diretório `/changelog-myrp`.
 ```
 git pull
 
