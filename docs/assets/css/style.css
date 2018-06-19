@@ -401,7 +401,7 @@ cite {
   font-style: italic;
 }
 strong {
-  font-weight: bold;
+  font-weight: 500;
 }
 img {
   position: relative;
