@@ -352,12 +352,11 @@ h1 {
   font-weight: 700;
 }
 h2 {
+  margin-top: 1.75rem;
   padding-bottom: 10px;
   font-size: 32px;
-  background: url("../images/bg_hr.png") repeat-x bottom;
 }
 h3 {
-  margin-top: 1.75rem;
   font-size: 24px;
 }
 h4 {
@@ -636,7 +635,6 @@ form {
     font-size: 24px;
   }
   h3 {
-    margin-top: 1.75rem;
     font-size: 21px;
   }
   h4 {
@@ -674,7 +672,6 @@ form {
     font-size: 21px;
   }
   h3 {
-    margin-top: 1.75rem;
     font-size: 18px;
   }
   h4 {
