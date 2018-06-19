@@ -417,7 +417,7 @@ img {
   -ms-box-shadow: 0 0 5px #ebebeb;
 }
 p img {
-  display: inline;
+  display: block;
   margin: 0;
   padding: 0;
   vertical-align: middle;
@@ -558,6 +558,7 @@ form {
   font-weight: 300;
   background: none;
   text-shadow: #111 0px 0px 10px;
+  margin-top: 0;
 }
 #downloads {
   position: absolute;
