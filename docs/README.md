@@ -7,6 +7,7 @@
 ## Release notes
 </div>
 
+- 06/07/2018 - [Primeira liberação de julho](./docs/18.07.01.md)
 - 22/06/2018 - [Segunda liberação de junho](./docs/18.06.02.md)
 - 01/06/2018 - [Primeira liberação de junho](./docs/18.06.01.md)
 - 25/05/2018 - [Segunda liberação de maio](./docs/18.05.02.md)
