@@ -7,6 +7,8 @@
 ## Release notes
 </div>
 
+<div class="articles">
+  
 - 06/07/2018 - [Primeira liberação de julho](./docs/18.07.01.md)
 - 22/06/2018 - [Segunda liberação de junho](./docs/18.06.02.md)
 - 01/06/2018 - [Primeira liberação de junho](./docs/18.06.01.md)
@@ -37,3 +39,4 @@
 - 01/09/2017 - [Novidades de setembro](./docs/17.09.01.md)
 - 14/08/2017 - [Novidades da primeira quinzena de agosto](./docs/17.08.02.md)
 - 01/08/2017 - [Novidades de agosto](./docs/17.08.01.md)
+</div>
