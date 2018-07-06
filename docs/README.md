@@ -1,3 +1,4 @@
+<div class="articles">
 <div class="hide">
 <p align="center">
   <img width="200" src="../logo.png" alt="Logo do myrp">
@@ -7,8 +8,7 @@
 ## Release notes
 </div>
 
-<div class="articles">
-  
+ 
 - <span class="date">06/07/2018</span> [Primeira liberação de julho](./docs/18.07.01.md)
 - <span class="date">22/06/2018</span> [Segunda liberação de junho](./docs/18.06.02.md)
 - <span class="date">01/06/2018</span> [Primeira liberação de junho](./docs/18.06.01.md)
@@ -39,4 +39,5 @@
 - <span class="date">01/09/2017</span> [Novidades de setembro](./docs/17.09.01.md)
 - <span class="date">14/08/2017</span> [Novidades da primeira quinzena de agosto](./docs/17.08.02.md)
 - <span class="date">01/08/2017</span> [Novidades de agosto](./docs/17.08.01.md)
+
 </div>
