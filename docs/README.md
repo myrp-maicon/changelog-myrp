@@ -10,7 +10,7 @@
 
 <ul>
     <li>
-        <span class="date">06/07/2018</span> 
+        <span class="date">20/07/2018</span> 
         <a href="/changelog-myrp/docs/18.07.02.html">Segunda liberação de julho</a>
     </li>
     <li>
