@@ -9,15 +9,15 @@ O changelog do myrp é criado utilizando GitHub Pages e Jekyll.
 Todas as alterações podem ser feitas pela interface do GitHub.
 
 ### Criando nova release
-1. Crie um arquivo markdown para a release no diretório `/changelog-myrp/docs/docs`.
-    - Por exemplo: `/changelog-myrp/docs/docs/18.08.01.md`.
+1. Crie um arquivo markdown para a release no diretório `/changelog-myrp/docs/docs`
+    - Por exemplo: `/changelog-myrp/docs/docs/18.08.01.md`
 
-2. Adicione um link para o arquivo criado no `README.md` do diretório `/changelog-myrp/docs`.
+2. Adicione um link para o arquivo criado no `README.md` do diretório `/changelog-myrp/docs`
 
 3. Pronto! Em até 10 minutos o GH Pages irá forçar o rebuild e as atualizações estarão disponíveis em `https://myrp.github.io/changelog-myrp/`
 
 ### Forçando a publicação da release
-Para forçar o rebuild do GH Pages é necessário seguir os passos abaixo no diretório `/changelog-myrp`.
+Para forçar o rebuild do GH Pages é necessário seguir os passos abaixo no diretório `/changelog-myrp`
 ```
 git pull
 
