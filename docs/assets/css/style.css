@@ -67,6 +67,10 @@ section img {
   max-width: 100%;
 }
 
+.black {
+  background-color: #111;
+}
+
 .row {
   margin: 0 -0.75rem;
 }
