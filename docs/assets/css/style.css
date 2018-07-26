@@ -68,7 +68,7 @@ section img {
 }
 
 .black {
-  background-color: #111;
+  background-color: #111 !important;
 }
 
 .row {
