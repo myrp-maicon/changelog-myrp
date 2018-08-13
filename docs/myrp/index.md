@@ -10,7 +10,7 @@
 
 <ul>
     <li>
-        <span class="date">17/08/2018</span> 
+        <span class="date">15/08/2018</span> 
         <a href="/changelog-myrp/myrp/18.08.01.html">Primeira liberação de agosto</a>
     </li>
     <li>
