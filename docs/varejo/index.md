@@ -11,6 +11,10 @@
 			<span class="date">31/07/2018</span> 
 			<a href="/changelog-myrp/varejo/18.07.01.html">Versão 18.07.01</a>
 		</li>
+		<li>
+			<span class="date">24/09/2018</span> 
+			<a href="/changelog-myrp/varejo/18.09.02.html">Versão 18.09.02</a>
+		</li>
 	</ul>
 
 </div>
