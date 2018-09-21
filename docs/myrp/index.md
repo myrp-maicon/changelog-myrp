@@ -10,8 +10,16 @@
 
 <ul>
     <li>
+        <span class="date">28/09/2018</span>
+        <a href="/changelog-myrp/myrp/18.09.02.html">Próximo deploy</a>
+    </li>
+    <li>
+        <span class="date">14/09/2018</span> 
+        <a href="/changelog-myrp/myrp/18.09.01.html">Primeira liberação de setembro</a>
+    </li>
+    <li>
         <span class="date">31/08/2018</span> 
-        <a href="/changelog-myrp/myrp/18.08.02.html">Próxima liberação</a>
+        <a href="/changelog-myrp/myrp/18.08.02.html">Segunda liberação de agosto</a>
     </li>
     <li>
         <span class="date">15/08/2018</span> 
