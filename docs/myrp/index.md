@@ -10,7 +10,7 @@
 
 <ul>
     <li>
-        <span class="date">28/09/2018</span>
+        <span class="date">26/09/2018</span>
         <a href="/changelog-myrp/myrp/18.09.02.html">Próximo deploy</a>
     </li>
     <li>
