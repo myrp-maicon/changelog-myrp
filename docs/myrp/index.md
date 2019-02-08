@@ -10,6 +10,10 @@
 
 <ul>
     <li>
+        <span class="date">11/02/2019</span>
+        <a href="/changelog-myrp/myrp/19.02.01.html">Primeira liberação de fevereiro</a>
+    </li>
+    <li>
         <span class="date">29/01/2019</span>
         <a href="/changelog-myrp/myrp/19.01.01.html">Liberação de janeiro</a>
     </li>
