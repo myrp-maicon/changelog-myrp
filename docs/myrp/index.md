@@ -11,7 +11,7 @@
 <ul>
     <li>
         <span class="date">18/02/2019</span>
-        <a href="/changelog-myrp/myrp/19.02.02.html">Próxima liberação (pré-agendada para 18/02/2019)</a>
+        <a href="/changelog-myrp/myrp/19.02.02.html">Segunda entrega de Fevereiro</a>
     </li>
     <li>
         <span class="date">11/02/2019</span>
