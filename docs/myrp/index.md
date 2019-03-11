@@ -10,6 +10,14 @@
 
 <ul>
     <li>
+        <span class="date">18/03/2019</span>
+        <a href="/changelog-myrp/myrp/19.03.02.html">Segunda entrega de Março</a>
+    </li>
+    <li>
+        <span class="date">04/03/2019</span>
+        <a href="/changelog-myrp/myrp/19.03.01.html">Primeira entrega de Março</a>
+    </li>
+    <li>
         <span class="date">18/02/2019</span>
         <a href="/changelog-myrp/myrp/19.02.02.html">Segunda entrega de Fevereiro</a>
     </li>
