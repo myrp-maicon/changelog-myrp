@@ -10,12 +10,32 @@
 
 <ul>
     <li>
+        <span class="date"> 09/07/2019</span>
+        <a href="/changelog-myrp/myrp/19.07.01.html">Primeira liberação de Julho</a>
+    </li>
+     <li>
+        <span class="date">10/06/2019</span>
+        <a href="/changelog-myrp/myrp/19.06.01.html">Primeira liberação de Junho</a>
+    </li>
+     <li>
+        <span class="date">27/05/2019</span>
+        <a href="/changelog-myrp/myrp/19.05.02.html">Segunda liberação de Maio</a>
+    </li>
+     <li>
+        <span class="date">13/05/2019</span>
+        <a href="/changelog-myrp/myrp/19.05.01.html">Primeira liberação de Maio</a>
+    </li>
+    <li>
+        <span class="date">29/04/2019</span>
+        <a href="/changelog-myrp/myrp/19.05.01.html">Terceira liberação de Abril</a>
+    </li>
+    <li>
         <span class="date">15/04/2019</span>
         <a href="/changelog-myrp/myrp/19.04.02.html">Segunda entrega de Abril</a>
     </li>
     <li>
         <span class="date">01/04/2019</span>
-        <a href="/changelog-myrp/myrp/19.04.01.html">1º de Abril</a>
+        <a href="/changelog-myrp/myrp/19.04.01.html">Primeira de Abril</a>
     </li>
     <li>
         <span class="date">18/03/2019</span>
